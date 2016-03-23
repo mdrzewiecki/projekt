@@ -14,5 +14,5 @@ except ValueError as ve:
     print("wprowadzono bledne dane, koncze dzialanie...")
 
 print (get_info())
-dodawanie()
+dodawanie(a,b)
 input()
